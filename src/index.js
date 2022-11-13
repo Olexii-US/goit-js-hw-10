@@ -36,7 +36,7 @@ function markupCountries(name) {
         const liRef = document.querySelectorAll(".country-item")
         console.log(liRef)
         liRef[0].classList.replace('country-item', 'item')
-        ///////
+        /////////////////////
     } else if (name.length > 1 && name.length <= countryMaxforPage) {
         clearNarkup()
         markupCountryList(name);

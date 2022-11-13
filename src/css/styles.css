@@ -11,6 +11,8 @@ body {
   background-color: rgb(227, 219, 219);
   color: #212121;
   line-height: 1.5;
+
+  padding: 20px;
 }
 
 #search-box {
